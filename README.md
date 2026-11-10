@@ -20,6 +20,7 @@ A small project for practicing Git and GitHub workflows.
 
 \## What I practiced
 
+- Created a feature branch from `dev`
 
 
 \- Creating branches
